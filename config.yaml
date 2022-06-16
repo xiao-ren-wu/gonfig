@@ -1,0 +1,4 @@
+app-name: go-test
+db:
+  username: root
+  password: root
